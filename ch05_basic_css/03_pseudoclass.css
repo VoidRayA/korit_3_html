@@ -31,7 +31,7 @@
 }
 
 /* 가상 클래스 학습
-가사 ㅇ클래스 작성 방법 : ':'
+가상 클래스 작성 방법 : ':'
  */
 ol li:first-child, 
 ol li:last-child {
